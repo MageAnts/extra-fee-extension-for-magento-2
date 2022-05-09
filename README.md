@@ -5,7 +5,7 @@
 				<h2>Magento 2 Extra Fee</h2>
 				<p>Using <strong>Magento 2 extra fee</strong>  extension, an online store quickly adds extra fees for special services such as extra packing, fast delivery charges, and any offer price, etc. </p>
 				
-				<div class="features-wrapper">
+<div class="features-wrapper">
 					<h3>Key Features</h3>
 					<ul>
 						<li>Easily add-on any fee, anytime in real-time</li>
